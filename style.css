@@ -1,0 +1,68 @@
+.images{
+    padding: 1px 1px 1px 1px ;
+    border-color: #FF1300;
+    border-width: 10px;
+    border: 2px solid #ff0000;
+    border-radius: 40px;
+    vertical-align: text-bottom;
+    text-align: center;
+}
+
+.left-side{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.user-information a{
+    margin: auto 0;
+    
+    
+}
+
+.suggestions-user{
+    margin: auto 0;
+    
+}
+
+.users{
+    margin-top: 10px;
+}
+
+.users span{
+    font-size: 12px;
+}
+
+
+.text-size{
+    font-size: small;
+}
+
+.post-options{
+   margin-left: auto;
+}
+
+.save-instagram{
+    float: right;
+    
+}
+
+
+.share-area{
+    margin-right: 200px;
+}
+
+.buton{
+    width: 10%;
+    text-align: center;
+    height: 100%;
+    color: rgba(var(--bs-link-color-rgb),var(--bs-link-opacity,1));
+    background:#fafafa;
+}
+
+.input-field {
+    border: 1px solid #fafafa; 
+    width: 100%;
+    outline: #fafafa;
+    
+}
